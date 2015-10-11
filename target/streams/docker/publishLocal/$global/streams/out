@@ -1,0 +1,105 @@
+[0m[[0mdebug[0m] [0mExecuting docker build --force-rm -t egg-scala:0.0.1-SNAPSHOT .[0m
+[0m[[0mdebug[0m] [0mWorking directory /Users/nlong/projects/egg-scala/target/docker/stage[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 557.1 kB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 1.114 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 1.671 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 2.228 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 2.785 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 3.342 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 3.899 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 4.456 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 5.014 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 5.571 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 6.096 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 6.652 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 7.209 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 7.766 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 8.323 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon  8.88 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 9.437 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 9.994 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 10.55 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 11.11 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 11.67 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 12.22 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 12.78 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 13.34 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 13.89 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 14.45 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 15.01 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 15.56 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 16.12 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 16.68 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 17.24 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 17.79 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 18.35 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 18.91 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 19.46 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 20.02 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 20.58 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 21.14 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 21.69 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 22.25 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 22.81 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 23.36 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 23.92 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 24.48 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 25.03 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 25.59 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 26.15 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 26.71 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 27.26 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 27.82 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 28.38 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 28.93 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 29.49 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 30.05 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 30.61 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 31.16 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 31.72 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 32.28 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 32.83 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 33.39 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 33.92 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 34.37 MB[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 34.37 MB[0m
+[0m[[0minfo[0m] [0mStep 0 : FROM frolvlad/alpine-oraclejdk8[0m
+[0m[[0minfo[0m] [0m ---> fbdd5be1a242[0m
+[0m[[0minfo[0m] [0mStep 1 : RUN apk update && apk add bash[0m
+[0m[[0minfo[0m] [0m ---> Running in 7e1994cac4b4[0m
+[0m[[0minfo[0m] [0mfetch http://dl-4.alpinelinux.org/alpine/v3.2/main/x86_64/APKINDEX.tar.gz[0m
+[0m[[0minfo[0m] [0mv3.2.3-82-gf8ece89 [http://dl-4.alpinelinux.org/alpine/v3.2/main][0m
+[0m[[0minfo[0m] [0mOK: 5293 distinct packages available[0m
+[0m[[0minfo[0m] [0m(1/4) Installing ncurses-terminfo-base (5.9-r3)[0m
+[0m[[0minfo[0m] [0m(2/4) Installing ncurses-libs (5.9-r3)[0m
+[0m[[0minfo[0m] [0m(3/4) Installing readline (6.3.008-r0)[0m
+[0m[[0minfo[0m] [0m(4/4) Installing bash (4.3.33-r0)[0m
+[0m[[0minfo[0m] [0mExecuting busybox-1.23.2-r0.trigger[0m
+[0m[[0minfo[0m] [0mOK: 13 MiB in 22 packages[0m
+[0m[[0minfo[0m] [0m ---> 1c68a0ba5dac[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 7e1994cac4b4[0m
+[0m[[0minfo[0m] [0mStep 2 : WORKDIR /opt/docker[0m
+[0m[[0minfo[0m] [0m ---> Running in fba4e5ea2924[0m
+[0m[[0minfo[0m] [0m ---> 03ce56e9288c[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container fba4e5ea2924[0m
+[0m[[0minfo[0m] [0mStep 3 : ADD opt /opt[0m
+[0m[[0minfo[0m] [0m ---> b06bc9bb5cef[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 1b6b4cc8ce3b[0m
+[0m[[0minfo[0m] [0mStep 4 : RUN chown -R daemon:daemon .[0m
+[0m[[0minfo[0m] [0m ---> Running in 26a0447a2555[0m
+[0m[[0minfo[0m] [0m ---> 5edaf869ece9[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 26a0447a2555[0m
+[0m[[0minfo[0m] [0mStep 5 : USER daemon[0m
+[0m[[0minfo[0m] [0m ---> Running in ad44f9eeee53[0m
+[0m[[0minfo[0m] [0m ---> c36657782b3d[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container ad44f9eeee53[0m
+[0m[[0minfo[0m] [0mStep 6 : ENTRYPOINT bin/egg-scala[0m
+[0m[[0minfo[0m] [0m ---> Running in 439bee16c900[0m
+[0m[[0minfo[0m] [0m ---> 1462e9f8cd36[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 439bee16c900[0m
+[0m[[0minfo[0m] [0mStep 7 : CMD [0m
+[0m[[0minfo[0m] [0m ---> Running in 9cb11a785da0[0m
+[0m[[0minfo[0m] [0m ---> 5d9d2959f946[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 9cb11a785da0[0m
+[0m[[0minfo[0m] [0mSuccessfully built 5d9d2959f946[0m
+[0m[[0minfo[0m] [0mBuilt image egg-scala:0.0.1-SNAPSHOT[0m
